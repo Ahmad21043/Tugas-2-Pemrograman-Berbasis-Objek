@@ -1,0 +1,15 @@
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\bin\Debug\net6.0\Konstruktor dan Destruktor.exe
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\bin\Debug\net6.0\Konstruktor dan Destruktor.deps.json
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\bin\Debug\net6.0\Konstruktor dan Destruktor.runtimeconfig.json
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\bin\Debug\net6.0\Konstruktor dan Destruktor.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\bin\Debug\net6.0\Konstruktor dan Destruktor.pdb
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.csproj.AssemblyReference.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.AssemblyInfoInputs.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.AssemblyInfo.cs
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\refint\Konstruktor dan Destruktor.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.pdb
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\Konstruktor dan Destruktor.genruntimeconfig.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Konstruktor dan Destruktor\Konstruktor dan Destruktor\obj\Debug\net6.0\ref\Konstruktor dan Destruktor.dll

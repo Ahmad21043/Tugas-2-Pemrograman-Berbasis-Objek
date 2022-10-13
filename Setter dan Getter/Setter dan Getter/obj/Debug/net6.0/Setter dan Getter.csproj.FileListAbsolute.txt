@@ -1,0 +1,15 @@
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\bin\Debug\net6.0\Setter dan Getter.exe
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\bin\Debug\net6.0\Setter dan Getter.deps.json
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\bin\Debug\net6.0\Setter dan Getter.runtimeconfig.json
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\bin\Debug\net6.0\Setter dan Getter.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\bin\Debug\net6.0\Setter dan Getter.pdb
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.csproj.AssemblyReference.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.AssemblyInfoInputs.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.AssemblyInfo.cs
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\refint\Setter dan Getter.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.pdb
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\Setter dan Getter.genruntimeconfig.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Setter dan Getter\Setter dan Getter\obj\Debug\net6.0\ref\Setter dan Getter.dll

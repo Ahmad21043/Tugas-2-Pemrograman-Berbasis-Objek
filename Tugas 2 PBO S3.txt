@@ -1,0 +1,5 @@
+1. Inheritance dan Overriding0000000
+2. Access Modified
+3. Konstruktor dan Destruktor
+4. Setter dan Getter
+5. Fungsi 'this' dan 'super'

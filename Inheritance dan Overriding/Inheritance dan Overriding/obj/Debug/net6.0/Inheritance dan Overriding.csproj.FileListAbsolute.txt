@@ -1,0 +1,15 @@
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.exe
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.deps.json
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.runtimeconfig.json
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\bin\Debug\net6.0\Inheritance dan Overriding.pdb
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.csproj.AssemblyReference.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.AssemblyInfoInputs.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.AssemblyInfo.cs
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\refint\Inheritance dan Overriding.dll
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.pdb
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\Inheritance dan Overriding.genruntimeconfig.cache
+D:\Visual Studio Project\Tugas Ke 2 PBO S3\Inheritance dan Overriding\Inheritance dan Overriding\obj\Debug\net6.0\ref\Inheritance dan Overriding.dll
